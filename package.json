@@ -1,7 +1,7 @@
 {
-  "name": "graphql-middleware",
+  "name": "graphql16-graphql-middleware",
   "description": "GraphQL Middleware done right!",
-  "version": "0.0.0-semantic-release",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "typings": "dist/index.d.ts",
